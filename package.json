@@ -8,11 +8,15 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "axios": "^0.22.0",
     "expo": "~42.0.1",
+    "expo-speech": "~9.2.1",
     "expo-status-bar": "~1.0.4",
+    "pensador-api": "^1.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-axios": "^0.17.1",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
